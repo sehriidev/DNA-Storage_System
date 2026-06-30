@@ -1,6 +1,6 @@
-customtkinter
-NumPy
+streamlit
+numpy
 Pillow
-opencv-python
+opencv-python-headless
 pypdf
 python-docx
