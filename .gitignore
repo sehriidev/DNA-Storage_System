@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Generated DNA files
+dna_storage/*.txt
+
+# Generated output files
+output/*
+
+# Keep folders
+!dna_storage/.gitkeep
+!output/.gitkeep
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini

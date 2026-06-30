@@ -1,0 +1,6 @@
+customtkinter
+NumPy
+Pillow
+opencv-python
+pypdf
+python-docx
